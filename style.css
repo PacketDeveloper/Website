@@ -19,6 +19,7 @@ body {
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+    max-width: 100%;
 }
 
 .buttons {
@@ -30,6 +31,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 5px;
 }
 
 .download {
