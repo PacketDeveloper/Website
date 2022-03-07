@@ -3,4 +3,4 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: Packet and Deq
+Packet Client is an MCBE Utility mod made by: Packet, Deq and Founder
