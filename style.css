@@ -22,14 +22,6 @@ body {
     max-width: 100%;
 }
 
-#disclaimer {
-    position: absolute;
-    top: 10%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    max-width: 100%;
-}
-
 .buttons {
     position: relative;
     top: 50%;
